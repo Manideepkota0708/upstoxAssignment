@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UpstoxAssignment</string>
+    <string name="rupee_symbol">\u20B9</string>
+    <string name="rupeeFormat">\u20B9 %1$f</string>
+    <string name="ltpFormat">LTP: \u20B9 %1$f</string>
+    <string name="plFormat">P/L: \u20B9 %1$f</string>
+    <string name="profit_and_loss">profit and loss</string>
+    <string name="today_s_profit_and_loss">today\'s profit and loss</string>
+    <string name="total_investment">total investment</string>
+    <string name="current_value">current value</string>
+</resources>
